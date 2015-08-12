@@ -1,0 +1,2 @@
+fragment: lýu tr? tr?ng thái thông tin thành ph?n giao di?n nh? l? trong m?t màn h?nh 
+Toast : hi?n th? thông báo sau m?t th?i gian r?i t? ð?ng t?t
